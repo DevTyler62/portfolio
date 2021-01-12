@@ -69,14 +69,15 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
-    img: 'church.png',
+    img: 'newChurch.png',
     title: 'Church Website',
     info: `Local church organization near my hometown did not have a website so I have built one for them.
     Implemented most of the important things that they use. Placeholder information is in place until I recieve
     the proper information to change it. Also made sure that the site is fully responsive on most devices.`,
-    info2: '',
-    url: 'https://providencemennonite.netlify.app/',
-    repo: 'https://github.com/DevTyler62/church-website', // if no repo, the button will not show up
+    info2: `This is an updated version. If you go to view the code the link to the old website that I had did is also
+    present there.`,
+    url: 'https://providencemennonitec.netlify.app/',
+    repo: 'https://github.com/DevTyler62/new-church-website', // if no repo, the button will not show up
   },
 ];
 
