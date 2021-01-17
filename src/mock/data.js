@@ -76,7 +76,7 @@ export const projectsData = [
     the proper information to change it. Also made sure that the site is fully responsive on most devices.`,
     info2: `This is an updated version. If you go to view the code the link to the old website that I had did is also
     present there.`,
-    url: 'https://providencemennonitec.netlify.app/',
+    url: 'https://providence-church.herokuapp.com/',
     repo: 'https://github.com/DevTyler62/new-church-website', // if no repo, the button will not show up
   },
 ];
