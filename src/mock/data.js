@@ -18,26 +18,14 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'Grad photo.jpg',
-  paragraphOne: `I am a senior computer science student at Kutztown University located in
-  Kutztown Pennslyvania. I am very passionate about technology and the impact that it has on the world.
-  This made me want to purse this career path to build products that others can use to benifit there
-  own lives. `,
-  paragraphTwo: `I was searching for an internship for the summer of 2020 but it was diffcult 
-  due to unfortunate events brought upon by the pandemic. During this time 
-  I took it upon myself to learn and furthur develop my skills whiel also still working my usual part time job, 
-  so I purchased some Udemy courses. I have finsied taking courses on JavaScript and 
-  HTML5 and CSS3 with responsive web design. The Spotify project I had did was written using React JS, now that
-  was my first time using that framework so I am most likely not following some of the best practices. I have a course on
-  React JS that I have started a little and do plan to learn more about React and making my next projects better. 
-  I have a desire to learn more about UI/UX's to better develop the look of my applications as well as working with 
-  databases and connecting my applications with them.`,
-  paragraphThree: `I have briefly worked with multiple langauges and services thorughout my
-  time at college such as C, C++, Java, JavaScript, ADA, React JS, HTML, CSS, PHP, and MASM. Some of the 
-  services that I have used is Micorsoft Visual Studio Code and Visual Studio, Eclispe for IDE's, Heroku and Netlify
-  for places to deploy my applications to the web, GitHub to store my code for my prjects as well as working with
-  Git as version controlling. 
-  
-  `,
+  paragraphOne: `I am currently a senior computer science student at Kutztown University located in
+  Kutztown, Pennslyvania. I have a strong passion for technology, and the impact that it has on the world.
+  Being a hard-working, dedicated, and life-long learner has aided me in pursuing a career path in the technology field.`,
+  paragraphTwo: `Due to the unforseen circumstances from the pandemic, I still found ways to further my knowledge and experience.
+  I took it upon myself to develop my skills by taking several Udemy courses. 
+  I took courses on web development that concentrated on HTML, CSS, and JavaScript. 
+  Other topics that I am looking to complete in the near future include React JS, Node.js, Express, MongoDB, and some
+  advanced CSS topics that also include using Sass.`,
   // resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
