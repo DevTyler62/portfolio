@@ -17,9 +17,8 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'Grad photo.jpg',
-  paragraphOne: `I am currently a senior computer science student at Kutztown University located in
-  Kutztown, Pennslyvania. I have a strong passion for technology, and the impact that it has on the world.
+  img: 'collegeGrad.jpg',
+  paragraphOne: `I recently received my bachelor's degree of Computer Science from Kutztown University. I have a strong passion for technology and the impact that it has on the world.
   Being a hard-working, dedicated, and life-long learner has aided me in pursuing a career path in the technology field.`,
   paragraphTwo: `Due to the unforseen circumstances from the pandemic, I still found ways to further my knowledge and experience.
   I took it upon myself to develop my skills by taking several Udemy courses. 
@@ -31,6 +30,18 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: uuidv1(),
+    img: 'buggy.png',
+    title: 'Buggy - Bug Tracking System',
+    info: `A two semester senior capstone group project that follows all of the elements of the software development life cycle.
+    The group went through the analysis, design, development, and testing phases of the project. This project includes aspects that were not present within
+    current, more popular, bug tracking systems. We incorporated an intuitive user interface as well as having a dissusions board for each bug report
+    to allow for more developer communication. Buggy was built using HTML, CSS, JavaScript, PHP, MySQL, and Hostinger.`,
+    info2: ``,
+    url: 'http://projectbuggy.tk/',
+    repo: 'https://github.com/bfasc/buggy', // if no repo, the button will not show up
+  },
   {
     id: uuidv1(),
     img: 'datafy.png',
